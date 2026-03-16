@@ -29,11 +29,12 @@ cybersecurity-notes/
 
 ### 🌐 Networking
 
-| Lección          | Descripción                          | Lab |
-| ---------------- | ------------------------------------ | --- |
-| [Modelo OSI](./) | Las 7 capas y qué hace cada una      | —   |
-| [TCP vs UDP](./) | Diferencias, casos de uso y capturas | ✅  |
-| [Subnetting](./) | CIDR, máscaras, cálculo de rangos    | ✅  |
+| Lección                                                                 | Descripción                          | Lab |
+| ----------------------------------------------------------------------- | ------------------------------------ | --- |
+| [Introduction to Networks](./Networking/01-introduction-to-networks.md) | Basic concepts about Networks        | ✅  |
+| [Modelo OSI](./)                                                        | Las 7 capas y qué hace cada una      | —   |
+| [TCP vs UDP](./)                                                        | Diferencias, casos de uso y capturas | ✅  |
+| [Subnetting](./)                                                        | CIDR, máscaras, cálculo de rangos    | ✅  |
 
 ### 🐧 Linux
 
@@ -84,4 +85,4 @@ Máquinas resueltas ordenadas por dificultad:
 
 ---
 
-_Última actualización: 03-15-2026_
+_Última actualización: 04-15-2026_
