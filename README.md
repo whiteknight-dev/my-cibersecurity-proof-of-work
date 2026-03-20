@@ -59,9 +59,9 @@ cybersecurity-notes/
 
 Máquinas resueltas ordenadas por dificultad:
 
-| Máquina | OS  | Dificultad | Vectores | Writeup |
-| ------- | --- | ---------- | -------- | ------- |
-| —       | —   | —          | —        | —       |
+| Machine                    | OS      | Difficulty | Vectors                       | Writeup                                             |
+| -------------------------- | ------- | ---------- | ----------------------------- | --------------------------------------------------- |
+| Starting Point - Responder | Windows | Very Easy  | LFI, RFI, NTLM Capture Attack | [Responder](./Machines/responder-starting-point.md) |
 
 > _Se irán agregando a medida que las resuelva._
 
@@ -69,11 +69,11 @@ Máquinas resueltas ordenadas por dificultad:
 
 ## 📈 My Progress
 
-- [x] Empezar CJCA
+- [x] Start CJCA
 - [ ] Completar módulo de Networking
 - [ ] Completar módulo de Linux
 - [ ] Completar módulo de Windows
-- [ ] Primera máquina en HTB (easy)
+- [x] First HTM Machine (easy)
 - [ ] 5 máquinas resueltas en HTB
 
 ---
@@ -86,4 +86,4 @@ Máquinas resueltas ordenadas por dificultad:
 
 ---
 
-_Última actualización: 03-18-2026_
+_Last Update: 03-19-2026_
