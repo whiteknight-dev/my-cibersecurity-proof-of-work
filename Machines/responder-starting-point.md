@@ -1,4 +1,4 @@
-# 01 Responder
+# Responder
 
 ## My Takeaways
 
