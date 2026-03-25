@@ -34,6 +34,7 @@ cybersecurity-notes/
 | [Introduction to Networks](./Networking/01-introduction-to-networks.md) | Basic concepts about Networks        | --  |
 | [OSI TPC-IP Models](./Networking/02-osi-tcp-models.md)                  | Layes and what is their function     | --  |
 | [MAC IP Ports](./Networking/03-mac-ip-ports.md)                         | How the traffic moves in networks    | --  |
+| [DNS](./Networking/04-dns.md)                                           | Insights about DNS Servers           | --  |
 | [TCP vs UDP](./)                                                        | Diferencias, casos de uso y capturas | --  |
 | [Subnetting](./)                                                        | CIDR, máscaras, cálculo de rangos    | --  |
 
@@ -87,4 +88,4 @@ Máquinas resueltas ordenadas por dificultad:
 
 ---
 
-_Last Update: 03-20-2026_
+_Last Update: 03-25-2026_
