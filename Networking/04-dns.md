@@ -9,3 +9,5 @@
 - It also helps with network segmentation through a concept called DNS Views, this allows you to serve different DNS responses to different parts of your network, preventing internal divisions from interfering with each other.
 
 - A local DNS server may seem like added complexity, but when properly administered it becomes a control point that helps enforce security policies and meet compliance requirements.
+
+- If you configure your DNS server to act as a recursive resolver, you need to implement access controls to prevent unauthorized users from abusing it as a vector to attack third parties, this type of attack is known as DNS Amplification.
