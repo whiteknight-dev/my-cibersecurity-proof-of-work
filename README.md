@@ -17,9 +17,11 @@ This repo is my public logbook: every file is a lesson I have learned in my own 
 ```
 cybersecurity-notes/
 │
-├── 📂 networking/          # Networking, protocols, subnets
-├── 📂 linux/               # File system, permission, commands, bash
-├── 📂 windows/             # AD, PowerShell, NTFS, registry
+├── 📂 Networking/          # Networking, protocols, subnets
+├── 📂 Linux/               # File system, permission, commands, bash
+├── 📂 Windows/             # AD, PowerShell, NTFS, registry
+├── 📂 Machines/            # HTB Machines, HTB Sherlocks...
+├── 📂 Labs/                # Laboratories
 └── 📄 README.md            # Index
 ```
 
@@ -87,4 +89,4 @@ cybersecurity-notes/
 
 ---
 
-_Last Update: 03-28-2026_
+_Last Update: 04-03-2026_
